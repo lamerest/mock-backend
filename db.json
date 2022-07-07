@@ -1,8 +1,9 @@
 {
     "posts": [
       {
-        "id": 1,
-        "title": "hello"
+        "data": true,
+        "status": 200,
+        "error": ""
       }
     ],
     "profile": {
