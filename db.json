@@ -1,5 +1,5 @@
 {
-    "posts": [
+    "canUpgrade": [
       {
         "data": true,
         "status": 200,
