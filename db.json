@@ -1,14 +1,11 @@
 {
-    "canUpgrade": [
-        {
-            "data": true,
-            "status": 200,
-            "error": ""
-        },
-        {
-            "data": true,
-            "status": 200,
-            "error": ""
-        }
-    ]
-}
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
