@@ -1,9 +1,11 @@
 {
-    "canUpgrade": {
+    "canUpgrades":[
+      {
         "data": true,
         "status": 200,
         "error": ""
-    },
+      }
+    ],
     "profile": {
       "name": "typicode"
     }
