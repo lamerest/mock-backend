@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "canUpgrade": [
     {
       "id": 0,
       "title": "hello",
